@@ -1,0 +1,13 @@
+{
+    "name": "jefer/login-with-google",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+        "google/apiclient": "^2.15",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
